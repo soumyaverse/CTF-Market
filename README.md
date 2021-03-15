@@ -1,4 +1,4 @@
-![Logo](https://github.com/burpOverflow/media/blob/master/ctfmarket.png)
+![Logo](https://github.com/burpOverflow/media/blob/master/ctfmarket.png?raw=true)
 ### INDEX
 * [picoctf](https://burpoverflow.github.io/CTF-Market/picoctf)
 
