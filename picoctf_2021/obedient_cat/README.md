@@ -4,3 +4,6 @@
 
 * download file : ```wget https://mercury.picoctf.net/static/2d24d50b4ebed90c704575627f1f57b2/flag```
 * use cat to read flag : ```cat flag```
+
+
+Read more about `cat` command https://www.tutorialspoint.com/unix_commands/cat.htm
